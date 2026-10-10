@@ -1,2 +1,0 @@
-# Crop-planner-
-Crop planner 
